@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public long putMarbles(int[] weights, int k) {
         int n = weights.length;
